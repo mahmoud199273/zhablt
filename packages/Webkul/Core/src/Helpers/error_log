@@ -1,0 +1,32 @@
+[04-Sep-2020 06:31:50 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Astrotomic\Translatable\Locales' not found in /home/zhaboutd/public_html/packages/Webkul/Core/src/Helpers/Locales.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Core/src/Helpers/Locales.php on line 7
+[05-Sep-2020 08:28:16 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Astrotomic\Translatable\Locales' not found in /home/zhaboutd/public_html/packages/Webkul/Core/src/Helpers/Locales.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Core/src/Helpers/Locales.php on line 7
+[06-Sep-2020 09:51:36 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Astrotomic\Translatable\Locales' not found in /home/zhaboutd/public_html/packages/Webkul/Core/src/Helpers/Locales.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Core/src/Helpers/Locales.php on line 7
+[07-Sep-2020 12:11:26 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Astrotomic\Translatable\Locales' not found in /home/zhaboutd/public_html/packages/Webkul/Core/src/Helpers/Locales.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Core/src/Helpers/Locales.php on line 7
+[08-Sep-2020 15:54:09 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Astrotomic\Translatable\Locales' not found in /home/zhaboutd/public_html/packages/Webkul/Core/src/Helpers/Locales.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Core/src/Helpers/Locales.php on line 7
+[09-Sep-2020 18:07:08 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Astrotomic\Translatable\Locales' not found in /home/zhaboutd/public_html/packages/Webkul/Core/src/Helpers/Locales.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Core/src/Helpers/Locales.php on line 7
+[10-Sep-2020 22:29:46 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Astrotomic\Translatable\Locales' not found in /home/zhaboutd/public_html/packages/Webkul/Core/src/Helpers/Locales.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Core/src/Helpers/Locales.php on line 7
+[12-Sep-2020 03:30:46 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Astrotomic\Translatable\Locales' not found in /home/zhaboutd/public_html/packages/Webkul/Core/src/Helpers/Locales.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Core/src/Helpers/Locales.php on line 7

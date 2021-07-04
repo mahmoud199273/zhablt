@@ -1,0 +1,16 @@
+[04-Sep-2020 06:30:01 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Attribute/src/Repositories/AttributeRepository.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Attribute/src/Repositories/AttributeRepository.php on line 11
+[05-Sep-2020 08:25:47 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Attribute/src/Repositories/AttributeRepository.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Attribute/src/Repositories/AttributeRepository.php on line 11
+[06-Sep-2020 09:35:04 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Attribute/src/Repositories/AttributeRepository.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Attribute/src/Repositories/AttributeRepository.php on line 11
+[07-Sep-2020 12:09:01 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Attribute/src/Repositories/AttributeRepository.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Attribute/src/Repositories/AttributeRepository.php on line 11

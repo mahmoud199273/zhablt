@@ -1,0 +1,32 @@
+[04-Sep-2020 06:41:40 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Repositories/ContentRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Repositories/ContentRepository.php on line 10
+[05-Sep-2020 08:39:21 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Repositories/ContentRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Repositories/ContentRepository.php on line 10
+[06-Sep-2020 09:43:09 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Repositories/ContentRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Repositories/ContentRepository.php on line 10
+[07-Sep-2020 12:25:24 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Repositories/ContentRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Repositories/ContentRepository.php on line 10
+[08-Sep-2020 15:09:55 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Repositories/ContentRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Repositories/ContentRepository.php on line 10
+[09-Sep-2020 17:31:38 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Repositories/ContentRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Repositories/ContentRepository.php on line 10
+[10-Sep-2020 20:39:01 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Repositories/ContentRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Repositories/ContentRepository.php on line 10
+[11-Sep-2020 21:40:33 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Repositories/ContentRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Repositories/ContentRepository.php on line 10

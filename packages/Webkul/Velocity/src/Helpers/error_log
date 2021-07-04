@@ -1,0 +1,16 @@
+[04-Sep-2020 06:40:19 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Product\Helpers\Review' not found in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Helpers/Helper.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Helpers/Helper.php on line 15
+[05-Sep-2020 08:38:26 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Product\Helpers\Review' not found in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Helpers/Helper.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Helpers/Helper.php on line 15
+[06-Sep-2020 09:42:18 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Product\Helpers\Review' not found in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Helpers/Helper.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Helpers/Helper.php on line 15
+[07-Sep-2020 12:22:59 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Product\Helpers\Review' not found in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Helpers/Helper.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Velocity/src/Helpers/Helper.php on line 15

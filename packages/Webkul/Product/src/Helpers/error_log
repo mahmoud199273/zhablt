@@ -1,0 +1,48 @@
+[04-Sep-2020 06:32:55 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Product\Helpers\AbstractProduct' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/ProductImage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/ProductImage.php on line 7
+[04-Sep-2020 06:34:03 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Product\Helpers\AbstractProduct' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/Review.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/Review.php on line 7
+[04-Sep-2020 06:35:20 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Product\Helpers\AbstractProduct' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/View.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/View.php on line 5
+[05-Sep-2020 08:29:21 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Product\Helpers\AbstractProduct' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/ProductImage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/ProductImage.php on line 7
+[05-Sep-2020 08:30:29 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Product\Helpers\AbstractProduct' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/Review.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/Review.php on line 7
+[05-Sep-2020 08:31:44 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Product\Helpers\AbstractProduct' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/View.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/View.php on line 5
+[06-Sep-2020 09:36:30 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Product\Helpers\AbstractProduct' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/ProductImage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/ProductImage.php on line 7
+[06-Sep-2020 09:38:38 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Product\Helpers\AbstractProduct' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/Review.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/Review.php on line 7
+[06-Sep-2020 09:39:36 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Product\Helpers\AbstractProduct' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/View.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/View.php on line 5
+[07-Sep-2020 12:12:51 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Product\Helpers\AbstractProduct' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/ProductImage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/ProductImage.php on line 7
+[07-Sep-2020 12:14:11 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Product\Helpers\AbstractProduct' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/Review.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/Review.php on line 7
+[07-Sep-2020 12:15:31 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Product\Helpers\AbstractProduct' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/View.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Helpers/View.php on line 5

@@ -1,0 +1,80 @@
+[04-Sep-2020 06:37:52 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/HomeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/HomeController.php on line 8
+[04-Sep-2020 06:39:06 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/ProductsCategoriesProxyController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/ProductsCategoriesProxyController.php on line 10
+[04-Sep-2020 17:46:41 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/OnepageController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/OnepageController.php on line 14
+[05-Sep-2020 08:34:56 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/HomeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/HomeController.php on line 8
+[05-Sep-2020 08:36:44 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/ProductsCategoriesProxyController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/ProductsCategoriesProxyController.php on line 10
+[05-Sep-2020 21:09:35 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/OnepageController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/OnepageController.php on line 14
+[06-Sep-2020 09:40:32 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/HomeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/HomeController.php on line 8
+[06-Sep-2020 09:41:25 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/ProductsCategoriesProxyController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/ProductsCategoriesProxyController.php on line 10
+[07-Sep-2020 01:53:36 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/OnepageController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/OnepageController.php on line 14
+[07-Sep-2020 12:19:06 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/HomeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/HomeController.php on line 8
+[07-Sep-2020 12:20:59 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/ProductsCategoriesProxyController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/ProductsCategoriesProxyController.php on line 10
+[08-Sep-2020 04:29:27 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/OnepageController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/OnepageController.php on line 14
+[08-Sep-2020 15:36:44 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/HomeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/HomeController.php on line 8
+[08-Sep-2020 16:47:14 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/ProductsCategoriesProxyController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/ProductsCategoriesProxyController.php on line 10
+[09-Sep-2020 17:51:34 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/HomeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/HomeController.php on line 8
+[09-Sep-2020 18:58:59 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/ProductsCategoriesProxyController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/ProductsCategoriesProxyController.php on line 10
+[10-Sep-2020 20:38:56 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/HomeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/HomeController.php on line 8
+[11-Sep-2020 07:48:36 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/ProductsCategoriesProxyController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/ProductsCategoriesProxyController.php on line 10
+[11-Sep-2020 21:58:40 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/HomeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/HomeController.php on line 8
+[12-Sep-2020 09:09:35 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Shop\Http\Controllers\Controller' not found in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/ProductsCategoriesProxyController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Shop/src/Http/Controllers/ProductsCategoriesProxyController.php on line 10

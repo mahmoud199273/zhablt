@@ -1,0 +1,32 @@
+[04-Sep-2020 06:36:41 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Repositories/ProductRepository.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Repositories/ProductRepository.php on line 14
+[05-Sep-2020 08:33:13 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Repositories/ProductRepository.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Repositories/ProductRepository.php on line 14
+[06-Sep-2020 09:52:32 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Repositories/ProductRepository.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Repositories/ProductRepository.php on line 14
+[07-Sep-2020 12:17:09 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Repositories/ProductRepository.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Repositories/ProductRepository.php on line 14
+[08-Sep-2020 16:47:09 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Repositories/ProductRepository.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Repositories/ProductRepository.php on line 14
+[09-Sep-2020 18:59:57 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Repositories/ProductRepository.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Repositories/ProductRepository.php on line 14
+[11-Sep-2020 07:48:31 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Repositories/ProductRepository.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Repositories/ProductRepository.php on line 14
+[12-Sep-2020 09:09:30 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Repositories/ProductRepository.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Repositories/ProductRepository.php on line 14

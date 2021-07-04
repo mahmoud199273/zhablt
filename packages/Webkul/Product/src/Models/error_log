@@ -1,0 +1,28 @@
+[04-Sep-2020 11:24:16 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Models/Product.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Models/Product.php on line 12
+[04-Sep-2020 11:24:51 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Models/ProductFlat.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Models/ProductFlat.php on line 8
+[06-Sep-2020 00:45:30 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Models/Product.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Models/Product.php on line 12
+[06-Sep-2020 00:46:33 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Models/ProductFlat.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Models/ProductFlat.php on line 8
+[07-Sep-2020 17:32:11 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Models/ProductFlat.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Models/ProductFlat.php on line 8
+[08-Sep-2020 20:03:02 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Models/Product.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Models/Product.php on line 12
+[08-Sep-2020 20:03:07 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/zhaboutd/public_html/packages/Webkul/Product/src/Models/ProductFlat.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Product/src/Models/ProductFlat.php on line 8

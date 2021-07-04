@@ -1,0 +1,32 @@
+[04-Sep-2020 11:22:11 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Prettus\Repository\Eloquent\BaseRepository' not found in /home/zhaboutd/public_html/packages/Webkul/Core/src/Eloquent/Repository.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Core/src/Eloquent/Repository.php on line 12
+[06-Sep-2020 00:16:37 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Prettus\Repository\Eloquent\BaseRepository' not found in /home/zhaboutd/public_html/packages/Webkul/Core/src/Eloquent/Repository.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Core/src/Eloquent/Repository.php on line 12
+[07-Sep-2020 17:23:46 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Prettus\Repository\Eloquent\BaseRepository' not found in /home/zhaboutd/public_html/packages/Webkul/Core/src/Eloquent/Repository.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Core/src/Eloquent/Repository.php on line 12
+[08-Sep-2020 20:02:07 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Prettus\Repository\Eloquent\BaseRepository' not found in /home/zhaboutd/public_html/packages/Webkul/Core/src/Eloquent/Repository.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Core/src/Eloquent/Repository.php on line 12
+[09-Sep-2020 22:57:01 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Prettus\Repository\Eloquent\BaseRepository' not found in /home/zhaboutd/public_html/packages/Webkul/Core/src/Eloquent/Repository.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Core/src/Eloquent/Repository.php on line 12
+[11-Sep-2020 01:37:52 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Prettus\Repository\Eloquent\BaseRepository' not found in /home/zhaboutd/public_html/packages/Webkul/Core/src/Eloquent/Repository.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Core/src/Eloquent/Repository.php on line 12
+[12-Sep-2020 02:58:19 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Prettus\Repository\Eloquent\BaseRepository' not found in /home/zhaboutd/public_html/packages/Webkul/Core/src/Eloquent/Repository.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Core/src/Eloquent/Repository.php on line 12
+[13-Sep-2020 05:58:14 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Prettus\Repository\Eloquent\BaseRepository' not found in /home/zhaboutd/public_html/packages/Webkul/Core/src/Eloquent/Repository.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Core/src/Eloquent/Repository.php on line 12

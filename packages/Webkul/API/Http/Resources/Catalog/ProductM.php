@@ -1,0 +1,99 @@
+<?php
+
+namespace Webkul\API\Http\Resources\Catalog;
+
+use Illuminate\Http\Resources\Json\JsonResource;
+use Webkul\Product\Helpers\ProductType;
+use Webkul\API\Http\Resources\Customer\Wishlist as WishlistResource;
+use Tymon\JWTAuth\Exceptions\JWTException;
+use JWTAuth;
+use DB;
+
+class ProductM extends JsonResource
+{
+    /**
+     * Create a new resource instance.
+     *
+     * @return void
+     */
+    public function __construct($resource)
+    {
+        $this->productImageHelper = app('Webkul\Product\Helpers\ProductImage');
+
+        $this->productReviewHelper = app('Webkul\Product\Helpers\Review');
+
+        parent::__construct($resource);
+    }
+
+    /**
+     * Transform the resource into an array.
+     *
+     * @param  \Illuminate\Http\Request
+     * @return array
+     */
+    public function toArray($request)
+    {
+        
+        $product = $this->product ? $this->product : $this;
+        try {
+            $tokenFetch = auth('api')->user();
+            if ($tokenFetch) {
+                $customer = $tokenFetch;
+            } else {
+                $customer = null;
+            }
+        } catch(\Tymon\JWTAuth\Exceptions\JWTException $e){//general JWT exception
+            $customer = null;
+        }
+        $is_fav = 0;
+        if($customer){
+            
+            $is_fav = DB::table('wishlist')->where(['customer_id' => $customer->id, 'product_id' => $product->id])->count();
+        }
+
+        $formated_special_price= $this->when(
+            $product->getTypeInstance()->haveSpecialPrice(),
+            core()->currency($product->getTypeInstance()->getSpecialPrice())
+        );
+
+        $special_price = $this->when(
+            $product->getTypeInstance()->haveSpecialPrice(),
+            $product->getTypeInstance()->getSpecialPrice()
+        );
+        
+        $formated_special_price = ($product->getTypeInstance()->haveSpecialPrice())?$formated_special_price:null;
+        $special_price = ($product->getTypeInstance()->haveSpecialPrice())?$special_price:null;
+        
+        return [
+            'id'                     => $product->id,
+            'type'                   => $product->type,
+            'name'                   => $this->name,
+            'url_key'                => $this->url_key,
+            'price'                  => $product->getTypeInstance()->getMinimalPrice(),
+            'formated_price'         => core()->currency($product->getTypeInstance()->getMinimalPrice()),
+            'short_description'      => $this->short_description,
+            'description'            => $this->description,
+            'sku'                    => $this->sku,
+            'images'                 => ProductImage::collection($product->images),
+            'base_image'             => $this->productImageHelper->getProductBaseImage($product),
+            //'variants'               => Self::collection($this->variants),
+            'in_stock'               => $product->haveSufficientQuantity(1),
+            $this->mergeWhen($product->getTypeInstance()->isComposite(), [
+                'super_attributes' => Attribute::collection($product->super_attributes),
+            ]),
+            'have_discount'          => (isset($special_price))?1:0,
+            'special_price'          => $special_price,
+            'formated_special_price' => $formated_special_price,
+            'reviews'                => [
+                'total'          => $total = $this->productReviewHelper->getTotalReviews($product),
+                'total_rating'   => $total ? $this->productReviewHelper->getTotalRating($product) : 0,
+                'average_rating' => $total ? $this->productReviewHelper->getAverageRating($product) : 0,
+                'percentage'     => $total ? json_encode($this->productReviewHelper->getPercentageRating($product)) : [],
+            ],
+            'is_saved'               => false,
+            'isfav'                  => $is_fav,
+            'created_at'             => $this->created_at,
+            'updated_at'             => $this->updated_at,
+        ];
+    }
+}

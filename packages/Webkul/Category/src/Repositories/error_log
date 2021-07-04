@@ -1,0 +1,32 @@
+[04-Sep-2020 06:30:31 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Category/src/Repositories/CategoryRepository.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Category/src/Repositories/CategoryRepository.php on line 14
+[05-Sep-2020 08:26:59 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Category/src/Repositories/CategoryRepository.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Category/src/Repositories/CategoryRepository.php on line 14
+[06-Sep-2020 09:50:51 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Category/src/Repositories/CategoryRepository.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Category/src/Repositories/CategoryRepository.php on line 14
+[07-Sep-2020 12:10:06 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Category/src/Repositories/CategoryRepository.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Category/src/Repositories/CategoryRepository.php on line 14
+[08-Sep-2020 16:47:04 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Category/src/Repositories/CategoryRepository.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Category/src/Repositories/CategoryRepository.php on line 14
+[09-Sep-2020 18:59:47 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Category/src/Repositories/CategoryRepository.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Category/src/Repositories/CategoryRepository.php on line 14
+[11-Sep-2020 07:48:23 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Category/src/Repositories/CategoryRepository.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Category/src/Repositories/CategoryRepository.php on line 14
+[12-Sep-2020 09:09:25 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Webkul\Core\Eloquent\Repository' not found in /home/zhaboutd/public_html/packages/Webkul/Category/src/Repositories/CategoryRepository.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Category/src/Repositories/CategoryRepository.php on line 14

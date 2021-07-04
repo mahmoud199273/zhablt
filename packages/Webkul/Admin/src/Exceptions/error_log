@@ -1,0 +1,16 @@
+[04-Sep-2020 17:23:57 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/zhaboutd/public_html/packages/Webkul/Admin/src/Exceptions/Handler.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Admin/src/Exceptions/Handler.php on line 12
+[05-Sep-2020 20:29:23 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/zhaboutd/public_html/packages/Webkul/Admin/src/Exceptions/Handler.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Admin/src/Exceptions/Handler.php on line 12
+[07-Sep-2020 01:42:46 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/zhaboutd/public_html/packages/Webkul/Admin/src/Exceptions/Handler.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Admin/src/Exceptions/Handler.php on line 12
+[08-Sep-2020 04:19:05 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/zhaboutd/public_html/packages/Webkul/Admin/src/Exceptions/Handler.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zhaboutd/public_html/packages/Webkul/Admin/src/Exceptions/Handler.php on line 12
